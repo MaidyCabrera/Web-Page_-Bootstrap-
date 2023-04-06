@@ -1,0 +1,31 @@
+Listado de clases usadas en Bootstrap
+
+Header
+* navbar -> barra de navegación.
+* navbar-dark ->  estilo oscuro a la barra de navegación.
+* bg-dark -> fondo oscuro a la barra de navegación.
+* flex-md-nowrap -> elementos dentro de la barra de navegación no se envuelvan al cambiar el tamaño de la pantalla.
+* p-0 -> padding cero
+* shadow -> sombra.
+* col-md-3 col-lg-2 me-0 px-3 -> tamaño de columna de 3 para dispositivos medianos y de 2 para grandes, sin espaciado horizontal y con un padding de 3px.
+* position-absolute d-md-none collapsed ->  posicionar el botón navbar-toggler de manera absoluta y ocultar el botón en dispositivos medianos y grandes. 
+*navbar-toggler -> agrega un botón que permite desplegar y contraer la barra de navegación en dispositivos móviles.
+* text-nowrap -> definir el espaciado
+* container-fluid -> contenedor que ocupa todo el ancho de la pantalla
+* bg-light -> Color de fondo.
+* collapse ->  elemento puede colapsar/expandirse.
+* flex-column -> los elementos dentro del contenedor se muestren en una columna.
+* nav-item ->elemento como parte de la lista de navegación.
+* nav-link -> Agrega estilos para un enlace dentro de la barra de navegación.
+* active -> elemento esté activo (seleccionado).
+* btn-toolbar -> estilo para un grupo de elementos de botones relacionados.
+* btn-group -> agrupar un conjunto de botones juntos.
+* btn-outline-secondary ->  botón con un borde secundario y fondo transparente.
+
+*dropdown-toggle -> botón desplegable.
+*hX -> estilo de encabezado que definen el tamaño de fuente y otros estilos de texto para los encabezados.
+
+* table-responsive-> tabla se adapte al tamaño de la pantalla en la que se visualiza.
+*table-striped -> agrega rayas a las filas de la tabla alternativamente.
+* table-sm -> reduce el tamaño de la tabla y hacerla más compacta.
+
